@@ -18,5 +18,6 @@
 
 ### Connect with Me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-vishwas)
+- [LinkedIn](www.linkedin.com/in/vishnu-vishwas)
+- [Instagram](https://www.instagram.com/_vish_was_007/)
 
