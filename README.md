@@ -5,6 +5,7 @@
 📱 Building innovative and user-friendly mobile applications.
 
 ---
+![linked-in banner](https://github.com/user-attachments/assets/315fe407-cfa4-40ee-9c85-93166ab3b514)
 
 ### About Me
 
