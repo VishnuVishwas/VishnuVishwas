@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**VishnuVishwas/VishnuVishwas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Passionate Mobile App Developer | Flutter Enthusiast**
 
-Here are some ideas to get you started:
+📱 Building innovative and user-friendly mobile applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+
+- 🔭 I’m currently working on keystroke-based user identification.
+- 🌱 I’m learning more about advanced Flutter development.
+- 💬 Ask me about mobile app development and Flutter.
+- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love participating in coding competitions and hackathons.
+
+### Projects
+
+- **[Project Name](link-to-project)**: Brief description of the project.
+- **[Another Project](link-to-another-project)**: Brief description of another project.
+
+### Connect with Me
+
+- [LinkedIn](your-linkedin-url)
+- [Twitter](your-twitter-url)
+
