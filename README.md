@@ -14,7 +14,7 @@
 - 💬 Ask me about mobile app development and Flutter.
 - 📫 How to reach me: gvishnuvishwas60@gmail.com
 - 😄 Pronouns: He/Him
-- Fun fact: I love building projects and connecting with people.
+</br>I love building projects and connecting with people.
 
 ### Connect with Me
 
